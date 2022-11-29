@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+	 viewBox="0 0 768 768"
+	 width="48"
+	 height="48"
+>
+	<style type="text/css">
+		.container{
+			width: 50%;
+			max-width: 300px;
+			display: block;
+			animation: 5s infinite both i-animation;
+			animation-delay: 0.5s;
+		}
+		@keyframes i-animation {
+			0% {transform: translateY(-48px);}
+			50% {transform: translateY(48px);}
+			100% {transform: translateY(-48px);}
+		}
+	</style>
+	<g class="container">
+		<path fill="#FFFFFF" d="M443.2,437.6l-6.4,60.8L384,512.8l-52.8-14.4L328,460h-46.4l6.4,75.2l97.6,27.2l97.6-27.2l1.6-8L496,402.4
+			l1.6-12.8h-12.8c-52.8,0-107.2,0-160,0L320,340c60.8,0,121.6,0,182.4,0l4.8-46.4c-80,0-158.4,0-238.4,0l1.6,12.8l11.2,131.2
+			C332.8,437.6,388.8,437.6,443.2,437.6L443.2,437.6L443.2,437.6z M220.8,608.8c-11.2-134.4-24-268.8-35.2-403.2H584
+			c-11.2,134.4-24,268.8-35.2,403.2L384,655.2L220.8,608.8z"/>
+		<path fill="#FFFFFF" d="M486.4,112.8H512v48l36.8,0v24l-62.4,0V112.8L486.4,112.8L486.4,112.8z M430.4,175.2l-17.6-24v33.6h-25.6
+			v-72h27.2l16,25.6l16-25.6h27.2v72H448v-33.6L430.4,175.2L430.4,175.2L430.4,175.2z M353.6,184.8H328v-48h-22.4v-24h72v24h-22.4
+			v48H353.6L353.6,184.8z M219.2,112.8h25.6v24h24v-24h25.6v72h-25.6v-24l-24,0v24l-25.6,0V112.8z"/>
+	</g>
+</svg>

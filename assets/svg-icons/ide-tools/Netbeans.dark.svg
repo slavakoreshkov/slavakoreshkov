@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+	 viewBox="0 0 768 768"
+	 width="48"
+	 height="48"
+>
+	<style type="text/css">
+		.container{
+			width: 50%;
+			max-width: 300px;
+			display: block;
+			animation: 5s infinite both i-animation;
+			animation-delay: 2s;
+		}
+		@keyframes i-animation {
+			0% {transform: translateY(-5px);}
+			50% {transform: translateY(5px);}
+			100% {transform: translateY(-5px);}
+		}
+		.bg{fill:none;}
+		.st0{fill:#FFFFFF;}
+		.st1{fill:#A1C535;}
+		.st2{fill:#ADD439;}
+		.st3{fill:#1B6AC6;}
+		.st4{fill:#2E90E8;}
+		.st5{fill:#EA205E;}
+		.st6{fill:#A5073E;}
+		.st7{fill:#F1F6E2;}
+		.st8{fill:#CEDBE6;}
+	</style>
+	<g class="container">
+		<polygon class="bg" points="189.1,271.6 384,159.2 578.9,271.6 578.9,496.4 384,608.8 189.1,496.4 	"/>
+		<polygon class="st1" points="384,175.6 384,256.2 273.3,320.5 203.3,279.8 	"/>
+		<polygon class="st2" points="564.7,279.8 494.7,320.5 384,256.2 384,175.6 564.7,279.8 	"/>
+		<polygon class="st3" points="564.7,488.2 494.7,447.5 494.7,320.5 564.7,279.8 564.7,488.2 	"/>
+		<polygon class="st4" points="384,592.4 384,511.8 494.7,447.5 564.7,488.2 384,592.4 	"/>
+		<polygon class="st5" points="203.3,488.2 273.3,447.5 384,511.8 384,592.4 203.3,488.2 	"/>
+		<polygon class="st6" points="203.3,279.8 273.3,320.5 273.3,447.5 203.3,488.2 203.3,279.8 	"/>
+		<polygon class="st7" points="273.3,320.5 384,256.2 494.7,320.5 384,384 	"/>
+		<polygon class="st8" points="384,384 494.7,320.5 494.7,447.5 384,511.8 	"/>
+		<polygon class="st0" points="273.3,320.5 384,384 384,511.8 273.3,447.5 	"/>
+	</g>
+</svg>

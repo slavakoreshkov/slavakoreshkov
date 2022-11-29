@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+	 viewBox="0 0 768 768"
+	 width="48"
+	 height="48"
+>
+	<style type="text/css">
+		.container{
+			width: 50%;
+			max-width: 300px;
+			display: block;
+			animation: 5s infinite both i-animation;
+			animation-delay: 0.5s;
+		}
+		@keyframes i-animation {
+			0% {transform: translateY(-48px);}
+			50% {transform: translateY(48px);}
+			100% {transform: translateY(-48px);}
+		}
+	</style>
+	<g class="container">
+		<path fill="#FFFFFF" fill-rule="evenodd" d="M449.81,301.77V433.4h65.81V334.6h32.98v98.79h32.98V334.6h32.98v98.79h32.98V301.77H449.81L449.81,301.77z
+			 M351.02,334.6v65.81H384V334.6H351.02L351.02,334.6L351.02,334.6z M285.21,301.77L285.21,301.77h131.63V433.4h-65.81v32.98h-65.81
+			V301.77L285.21,301.77z M120.74,433.4h65.81V334.6h32.98v98.79h32.98V301.77H120.89V433.4H120.74L120.74,433.4z M87.77,268.79
+			h592.47v197.44H384v32.98H252.37v-32.98H87.77V268.79L87.77,268.79z"/>
+	</g>
+</svg>

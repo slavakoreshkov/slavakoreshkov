@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+	 viewBox="0 0 768 768"
+	 width="48"
+	 height="48"
+>
+	<style type="text/css">
+		.container{
+			width: 50%;
+			max-width: 300px;
+			display: block;
+			animation: 5s infinite both i-animation;
+			animation-delay: 1.5s;
+		}
+		@keyframes i-animation {
+			0% {transform: translateY(-48px);}
+			50% {transform: translateY(48px);}
+			100% {transform: translateY(-48px);}
+		}
+	</style>
+	<g class="container">
+		<polygon fill="#FFFFFF" points="184.23,492.97 220.55,238.71 365.84,93.43 547.45,275.04 438.48,384 583.77,529.29 365.84,674.57 	"/>
+	</g>
+</svg>

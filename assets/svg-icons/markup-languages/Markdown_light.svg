@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+	 viewBox="0 0 768 768"
+	 width="48"
+	 height="48"
+>
+	<style type="text/css">
+		.container{
+			width: 50%;
+			max-width: 300px;
+			display: block;
+			animation: 5s infinite both i-animation;
+			animation-delay: 1s;
+		}
+		@keyframes i-animation {
+			0% {transform: translateY(-48px);}
+			50% {transform: translateY(48px);}
+			100% {transform: translateY(-48px);}
+		}
+		.st0{fill:#FFFFFF;}
+		.st1{}
+	</style>
+	<g class="container">
+		<circle fill="#FFFFFF" cx="384" cy="384" r="272" />
+		<g>
+			<path fill="#000000" d="M384,112c150.22,0,272,121.78,272,272S534.22,656,384,656S112,534.22,112,384S233.78,112,384,112L384,112z
+				 M206.74,266.49c-11,0-19.92,8.92-19.92,19.92v195.19c0,11,8.92,19.92,19.92,19.92h354.52c11,0,19.92-8.92,19.92-19.92V286.41
+				c0-11-8.92-19.92-19.92-19.92H206.74z"/>
+			<path fill="#000000" d="M485.58,451.72l-59.75-65.73h39.83v-69.71h39.83v69.71h39.83L485.58,451.72L485.58,451.72z M236.61,451.72
+				V316.28h39.83l39.83,49.79l39.83-49.79h39.83v135.44h-39.83v-77.68l-39.83,49.79l-39.83-49.79v77.68H236.61z"/>
+		</g>
+	</g>
+</svg>

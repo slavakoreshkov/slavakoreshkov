@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+	 viewBox="0 0 768 768"
+	 width="48"
+	 height="48"
+>
+	<style type="text/css">
+		.container{
+			width: 50%;
+			max-width: 300px;
+			display: block;
+			animation: 5s infinite both i-animation;
+			animation-delay: 1.5s;
+		}
+		@keyframes i-animation {
+			0% {transform: translateY(-48px);}
+			50% {transform: translateY(48px);}
+			100% {transform: translateY(-48px);}
+		}
+	</style>
+	<g class="container">
+		<path fill="#333333" d="M524.4,651.2l112-54.4c11.2-6.4,19.2-17.6,19.2-30.4V201.6c0-12.8-8-25.6-19.2-30.4l-112-54.4
+			c-12.8-6.4-28.8-3.2-38.4,6.4L271.6,318.4L178.8,248c-8-6.4-20.8-6.4-28.8,1.6l-30.4,27.2c-9.6,9.6-9.6,24,0,33.6l81.6,73.6
+			l-81.6,73.6c-9.6,9.6-9.6,24,0,33.6l30.4,27.2c8,8,20.8,8,28.8,1.6l92.8-70.4L486,644.8C495.6,654.4,511.6,657.6,524.4,651.2
+			L524.4,651.2L524.4,651.2z M519.6,260.8v246.4L356.4,384L519.6,260.8z"/>
+	</g>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+	 viewBox="0 0 768 768"
+	 width="48"
+	 height="48"
+>
+	<style type="text/css">
+		.container{
+			width: 50%;
+			max-width: 300px;
+			display: block;
+			animation: 5s infinite both i-animation;
+			animation-delay: 2s;
+		}
+		@keyframes i-animation {
+			0% {transform: translateY(-48px);}
+			50% {transform: translateY(48px);}
+			100% {transform: translateY(-48px);}
+		}
+	</style>
+	<g class="container">
+		<circle fill="#FFFFFF" cx="384" cy="384" r="272"/>
+		<path fill="#333333" d="M545.74,508.92H470.4V397.16h-31.2v142.13h106.54V508.92L545.74,508.92L545.74,508.92z M271.03,397.19v142.74
+			h30.63v-98.46l32.05,66.18h24.11l33.15-68.51v100.76h29.38V397.19h-40.12l-35.59,64.55l-33.9-64.55H271.03L271.03,397.19
+			L271.03,397.19z M428.09,348.81h-65.95l-13.41,32.39h-29.2l61.75-145.64h29.87L470.4,381.2h-31.21L428.09,348.81L428.09,348.81
+			L428.09,348.81z M417.14,319.74l-20.22-53.45l-22.56,53.45H417.14L417.14,319.74z M366.91,235.22L366.91,235.22h-39.2l-36.4,57.39
+			l-36.11-57.39h-40.95l56.78,89.14v56.51h36.44v-56.51L366.91,235.22z"/>
+	</g>
+</svg>
