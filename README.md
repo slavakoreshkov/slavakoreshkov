@@ -134,6 +134,6 @@ I will charge  ⚡️ your web resources with the energy of my skills:
 
 ---
 
-<a href="https://github.com/koreshkov-kz/koreshkov-kz/issues"><img src="https://img.shields.io/badge/Ask%20me-anything-FF6600.svg?style=for-the-badge&link=https://github.com/koreshkov-kz/koreshkov-kz/issues"/></a>
+<a href="https://github.com/slavakoreshkov/slavakoreshkov/issues"><img src="https://img.shields.io/badge/Ask%20me-anything-FF6600.svg?style=for-the-badge&link=https://github.com/slavakoreshkov/slavakoreshkovq/issues"/></a>
 
 </div>
